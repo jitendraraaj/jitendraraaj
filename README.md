@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jitendra Kumar
 
-### Aspiring Software Engineer | MERN Stack Developer | Learning DSA
+### Aspiring Software Engineer | Learning DSA & Web Development
 
 I'm a B.Tech student passionate about **Software Development and Full Stack Web Development**. I enjoy building practical web applications and turning ideas into simple, useful, and responsive digital experiences.
 
