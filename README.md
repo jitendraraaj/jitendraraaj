@@ -108,7 +108,9 @@ Database Management
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jitendraraaj&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jitendraraaj&theme=github_dark" width="420" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jitendraraaj&theme=github_dark" width="420" />
 
 </div>
 
@@ -118,7 +120,7 @@ Database Management
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=jitendraraaj" />
+<img src="https://streak-stats.demolab.com/?user=jitendraraaj&theme=github-dark&hide_border=true&border_radius=12" width="600" />
 
 </div>
 
