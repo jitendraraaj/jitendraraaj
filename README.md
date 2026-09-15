@@ -2,9 +2,9 @@
 
 ### Aspiring Software Engineer | Learning DSA & Web Development
 
-I'm a B.Tech student passionate about **Software Development and Full Stack Web Development**. I enjoy building practical web applications and turning ideas into simple, useful, and responsive digital experiences.
+I'm a B.Tech student passionate about **Software Development and Web Development**. I enjoy building practical web applications and continuously improving my programming and problem-solving skills.
 
-Currently, I'm strengthening my **Data Structures & Algorithms, problem-solving, and full-stack development** skills through continuous learning and hands-on projects.
+Currently, I'm learning **Data Structures & Algorithms** and working on **web development projects** to strengthen my technical skills and gain hands-on experience.
 
 ---
 
@@ -12,57 +12,53 @@ Currently, I'm strengthening my **Data Structures & Algorithms, problem-solving,
 
 * 🎓 B.Tech Student
 * 💻 Aspiring Software Engineer
-* ⚛️ MERN Stack Developer
-* 🌐 Interested in Full Stack Web Development
+* 🌐 Learning Web Development
 * 🧠 Learning Data Structures & Algorithms
-* 🔨 Building projects to gain real-world development experience
-* 🚀 Always learning and improving
+* 🚀 Building practical projects
+* 💡 Improving problem-solving and programming skills
+* 🌱 Always learning and exploring new technologies
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-**Frontend**
+### Web Development
 
 `HTML` `CSS` `JavaScript` `React.js`
 
-**Backend**
+### Backend Development
 
 `Node.js` `Express.js` `REST APIs`
 
-**Database**
+### Database
 
 `MongoDB` `SQL`
 
-**Programming & Tools**
+### Programming & Tools
 
 `C++` `Git` `GitHub` `VS Code` `Postman`
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🛒 MERN Stack E-Commerce Application
+### 🛒 E-Commerce Web Application
 
-A full-stack e-commerce application built using the MERN stack, focused on creating a practical and responsive online shopping experience.
+A web-based e-commerce project developed to practice frontend and full-stack web development concepts.
 
-**Tech:** React.js • Node.js • Express.js • MongoDB
-
----
+**Technologies:** React.js • Node.js • Express.js • MongoDB
 
 ### 🌐 Personal Portfolio
 
-A responsive personal portfolio website designed to showcase my skills, projects, education, and development journey.
+A responsive portfolio website created to showcase my skills, projects, education, and development journey.
 
-**Tech:** HTML • CSS • JavaScript
-
----
+**Technologies:** HTML • CSS • JavaScript
 
 ### 💻 DSA & Problem Solving
 
-A collection of my Data Structures & Algorithms practice, coding problems, and solutions as I continue improving my problem-solving skills.
+A collection of my Data Structures & Algorithms practice and coding solutions as I continue improving my problem-solving skills.
 
-**Focus:** C++ • Arrays • Strings • Hashing • Searching • Sorting • Problem Solving
+**Focus:** C++ • Arrays • Strings • Searching • Sorting • Hashing
 
 ---
 
@@ -70,20 +66,20 @@ A collection of my Data Structures & Algorithms practice, coding problems, and s
 
 * 🧠 Data Structures & Algorithms
 * 💡 Problem Solving
-* ⚡ Advanced JavaScript
+* 🌐 Web Development
+* ⚡ JavaScript
 * ⚛️ React.js
 * 🔧 Backend Development
-* 🗄️ Database & API Development
 
 ---
 
-## 🎯 Career Goal
+## 🎯 My Goal
 
-My goal is to become a **skilled Software Engineer** by building strong programming fundamentals, developing real-world applications, and continuously improving my problem-solving abilities.
+My goal is to become a **skilled Software Engineer** by building strong programming fundamentals, developing practical projects, and continuously improving my problem-solving abilities.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 💼 **LinkedIn:** [Jitendra Kumar](https://www.linkedin.com/in/jitendra-kumar-7b118b340/)
 
@@ -93,4 +89,5 @@ My goal is to become a **skilled Software Engineer** by building strong programm
 
 ### ⭐ Thanks for visiting my profile!
 
-Feel free to explore my repositories and follow my development journey.
+Feel free to explore my repositories.
+                                    Keep Learning. Keep Building. Keep Growing. 🚀
