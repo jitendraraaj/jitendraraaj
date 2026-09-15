@@ -108,19 +108,16 @@ Database Management
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jitendraraaj&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitendraraaj&layout=compact&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=jitendraraaj&show_icons=true" />
 
 </div>
-
 ---
 
 ## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=jitendraraaj&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=jitendraraaj" />
 
 </div>
 
