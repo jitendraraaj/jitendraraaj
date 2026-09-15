@@ -1,22 +1,37 @@
-# Hi 👋, I'm Jitendra Kumar
+<div align="center">
 
-### Aspiring Software Engineer | Learning DSA & Web Development
+# 👋 Hi, I'm Jitendra Kumar
 
-I'm a B.Tech student passionate about **Software Development and Web Development**. I enjoy building practical web applications and continuously improving my programming, development, and problem-solving skills.
+### 💻 Aspiring Software Engineer
 
-Currently, I'm learning **Data Structures & Algorithms** and working on web development projects to strengthen my technical knowledge and gain hands-on experience.
+**Learning DSA & Web Development • Building Projects • Growing Every Day**
+
+<p>
+  <a href="https://github.com/jitendraraaj">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jitendra-kumar-7b118b340/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
+I'm a **B.Tech student** passionate about software development and web technologies. I enjoy building practical applications, learning new technologies, and improving my programming and problem-solving skills.
+
+Currently, I'm focused on **Data Structures & Algorithms** and **Web Development**, while working on projects to gain hands-on experience.
+
 * 🎓 B.Tech Student
 * 💻 Aspiring Software Engineer
 * 🌐 Learning Web Development
-* 🧠 Learning Data Structures & Algorithms
+* 🧠 Practicing Data Structures & Algorithms
 * 🚀 Building practical projects
-* 💡 Improving programming and problem-solving skills
-* 🌱 Exploring new technologies and development practices
+* 💡 Improving programming & problem-solving skills
+* 🌱 Always learning and exploring new technologies
 
 ---
 
@@ -24,72 +39,121 @@ Currently, I'm learning **Data Structures & Algorithms** and working on web deve
 
 ### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
 ### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
 ### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### 💻 Programming & Tools
 
-<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,postman" />
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode,postman" />
+</p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🛒 E-Commerce Web Application
 
-A web-based e-commerce project developed to practice **frontend and full-stack web development** concepts.
+A practical e-commerce project developed to strengthen my **frontend and full-stack web development** skills.
 
-**Technologies:** React.js • Node.js • Express.js • MongoDB
+**Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB`
+
+---
 
 ### 🌐 Personal Portfolio
 
 A responsive portfolio website created to showcase my **skills, projects, education, and development journey**.
 
-**Technologies:** HTML • CSS • JavaScript
+**Tech Stack:** `HTML` `CSS` `JavaScript`
+
+---
 
 ### 💻 DSA & Problem Solving
 
-A collection of my **Data Structures & Algorithms practice and coding solutions** as I continue improving my programming and problem-solving skills.
+A collection of my **Data Structures & Algorithms practice and coding solutions**, focused on improving programming fundamentals and problem-solving abilities.
 
-**Focus:** C++ • Arrays • Strings • Searching • Sorting • Hashing
+**Focus:** `C++` `Arrays` `Strings` `Searching` `Sorting` `Hashing`
 
 ---
 
 ## 📚 Currently Learning
 
-* 🧠 Data Structures & Algorithms
-* 💡 Problem Solving
-* 🌐 Web Development
-* ⚡ JavaScript
-* ⚛️ React.js
-* 🔧 Backend Development
+```text
+Data Structures & Algorithms
+Problem Solving
+Web Development
+JavaScript
+React.js
+Backend Development
+REST APIs
+Database Management
+```
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jitendraraaj&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitendraraaj&layout=compact&hide_border=true" height="170" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=jitendraraaj&hide_border=true" />
+
+</div>
 
 ---
 
 ## 🎯 My Goal
 
-My goal is to become a **skilled Software Engineer** by building strong programming fundamentals, developing practical projects, and continuously improving my technical and problem-solving abilities.
+> **Keep Learning. Keep Building. Keep Growing. 🚀**
+
+My goal is to become a **skilled Software Engineer** by developing strong programming fundamentals, building real-world applications, and continuously improving my technical and problem-solving skills.
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/jitendra-kumar-7b118b340/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/jitendra-kumar-7b118b340/">
+<img src="https://img.shields.io/badge/LinkedIn-Jitendra%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/jitendraraaj">
+<img src="https://img.shields.io/badge/GitHub-jitendraraaj-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
+
+<div align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
-Feel free to explore my repositories.
-                                      Keep Learning. Keep Building. Keep Growing. 🚀
+**Feel free to explore my repositories and follow my journey.**
+
+</div>
