@@ -106,11 +106,8 @@ Database Management
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+[![Jitendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=jitendraraaj&show_icons=true)](https://github.com/jitendraraaj)
 
-<img src="https://github-readme-stats.vercel.app/api?username=jitendraraaj&show_icons=true" />
-
-</div>
 ---
 
 ## 🔥 Contribution Streak
