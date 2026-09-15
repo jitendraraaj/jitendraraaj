@@ -106,7 +106,11 @@ Database Management
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jitendraraaj&theme=default)
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jitendraraaj&theme=github_dark" />
+
+</div>
 
 ---
 
