@@ -106,11 +106,7 @@ Database Management
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-![Jitendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=jitendraraaj&show_icons=true)
-
-</div>
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jitendraraaj&theme=default)
 
 ---
 
